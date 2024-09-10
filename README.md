@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 
 🤓 En el momento ando estudiando para ser un gran desarrollador Front-end.<br>🏋🏽 Me esfuerzo día a día para mejorar en mi código. <br>👨🏽‍💻 Me gusta colaborar con más personas.<br>🏎️ Cada día quiero aprender más y más.<br>🚀 Me encanta explorar mis horizontes.
 
-## 🌐 Socials:
+## 🌐 Redes:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juan.cutiva_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juandavidcutivalopez/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JuanDavidCutiv2)
 
