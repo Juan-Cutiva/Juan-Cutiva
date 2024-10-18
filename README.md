@@ -1,6 +1,6 @@
 # 💫 Sobre Mi:
 
-🤓 En el momento ando estudiando para ser un gran desarrollador Front-end.<br>🏋🏽 Me esfuerzo día a día para mejorar en mi código. <br>👨🏽‍💻 Me gusta colaborar con más personas.<br>🏎️ Cada día quiero aprender más y más.<br>🚀 Me encanta explorar mis horizontes.
+🤓 En el momento estoy estudiando para ser un gran desarrollador Front-end.<br>🏋🏽 Me esfuerzo día a día para mejorar en mi código. <br>👨🏽‍💻 Me gusta colaborar con más personas.<br>🏎️ Cada día quiero aprender más y más.<br>🚀 Me encanta explorar mis horizontes.
 
 ## 🌐 Redes:
 
